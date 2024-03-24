@@ -1,0 +1,11 @@
+# Byte compiled files
+__pycache__/
+
+# Editor files
+.vscode/
+
+# Local Files
+data/
+
+# Model
+model.pkl
