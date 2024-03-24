@@ -32,4 +32,4 @@ The MLP implementation in numpy has numerical instability for large learning rat
 
 ## License
 
-This repository is licenses under the `MIT` license
+This repository is licenses under the [`Apache License`](./LICENSE) license
